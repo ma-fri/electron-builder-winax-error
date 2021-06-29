@@ -1,0 +1,16 @@
+{
+  "name": "electron-10-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx electron-builder install-app-deps"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "10.4.7",
+    "electron-builder": "22.8.0",
+    "winax": "1.20.0"
+  }
+}
